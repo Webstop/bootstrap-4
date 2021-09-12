@@ -1,3 +1,10 @@
+> ## Bootstrap-4 & Core-Styles 2 
+> 
+> This is a forked version of Bootstrap v4. It's node module has been renamed from `bootstrap` to 
+> `bootstrap-4`. This way we can include both Bootstrap 5 (for core-styles 3) and Bootstrap 4 
+> (for core-styles 2) in the same instance of core-customizations. Otherwise it is exactly the same 
+> as the official Bootstrap 4.
+
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
